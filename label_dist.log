@@ -1,0 +1,354 @@
+Done loading data from cached files.
+training 0
+epoch 0, loss 2.6971, acc 0.8583
+epoch 1, loss 0.9694, acc 0.8583
+epoch 2, loss 0.5275, acc 0.8583
+epoch 3, loss 0.5505, acc 0.8583
+epoch 4, loss 0.5755, acc 0.8583
+final test: 0.8586, std 0.0000
+training 1
+epoch 0, loss 2.6713, acc 0.8583
+epoch 1, loss 0.9410, acc 0.8583
+epoch 2, loss 0.5890, acc 0.8583
+epoch 3, loss 0.5270, acc 0.8583
+epoch 4, loss 0.5112, acc 0.8583
+final test: 0.8586, std 0.0000
+training 2
+epoch 0, loss 2.7287, acc 0.8581
+epoch 1, loss 0.8581, acc 0.8583
+epoch 2, loss 0.5943, acc 0.8583
+epoch 3, loss 0.5146, acc 0.8583
+epoch 4, loss 0.5218, acc 0.8583
+final test: 0.8586, std 0.0000
+training 3
+epoch 0, loss 2.7299, acc 0.8583
+epoch 1, loss 0.8965, acc 0.8583
+epoch 2, loss 0.6186, acc 0.8583
+epoch 3, loss 0.5414, acc 0.8583
+epoch 4, loss 0.4736, acc 0.8583
+final test: 0.8586, std 0.0000
+training 4
+epoch 0, loss 2.6821, acc 0.8583
+epoch 1, loss 0.9537, acc 0.8583
+epoch 2, loss 0.6139, acc 0.8583
+epoch 3, loss 0.5477, acc 0.8583
+epoch 4, loss 0.5063, acc 0.8583
+final test: 0.8586, std 0.0000
+training 5
+epoch 0, loss 2.5125, acc 0.8583
+epoch 1, loss 0.9213, acc 0.8583
+epoch 2, loss 0.6137, acc 0.8583
+epoch 3, loss 0.5772, acc 0.8583
+epoch 4, loss 0.5594, acc 0.8583
+final test: 0.8586, std 0.0000
+training 6
+epoch 0, loss 2.7182, acc 0.8588
+epoch 1, loss 0.9069, acc 0.8583
+epoch 2, loss 0.5742, acc 0.8583
+epoch 3, loss 0.5927, acc 0.8583
+epoch 4, loss 0.5073, acc 0.8583
+final test: 0.8586, std 0.0000
+training 7
+epoch 0, loss 2.6976, acc 0.8583
+epoch 1, loss 0.8378, acc 0.8583
+epoch 2, loss 0.5952, acc 0.8583
+epoch 3, loss 0.6004, acc 0.8583
+epoch 4, loss 0.5593, acc 0.8583
+final test: 0.8586, std 0.0000
+training 8
+epoch 0, loss 2.7050, acc 0.8583
+epoch 1, loss 0.9453, acc 0.8583
+epoch 2, loss 0.5932, acc 0.8583
+epoch 3, loss 0.5407, acc 0.8583
+epoch 4, loss 0.5219, acc 0.8583
+final test: 0.8586, std 0.0000
+training 9
+epoch 0, loss 2.6854, acc 0.8583
+epoch 1, loss 0.8196, acc 0.8583
+epoch 2, loss 0.6134, acc 0.8583
+epoch 3, loss 0.5825, acc 0.8583
+epoch 4, loss 0.4902, acc 0.8583
+final test: 0.8586, std 0.0000
+training 10
+epoch 0, loss 2.6909, acc 0.8581
+epoch 1, loss 0.9068, acc 0.8583
+epoch 2, loss 0.6186, acc 0.8583
+epoch 3, loss 0.5825, acc 0.8583
+epoch 4, loss 0.5546, acc 0.8583
+final test: 0.8586, std 0.0000
+training 11
+epoch 0, loss 2.6668, acc 0.8583
+epoch 1, loss 0.7913, acc 0.8583
+epoch 2, loss 0.6316, acc 0.8583
+epoch 3, loss 0.5008, acc 0.8583
+epoch 4, loss 0.5409, acc 0.8583
+final test: 0.8586, std 0.0000
+training 12
+epoch 0, loss 2.7244, acc 0.8583
+epoch 1, loss 0.8592, acc 0.8583
+epoch 2, loss 0.5771, acc 0.8583
+epoch 3, loss 0.5543, acc 0.8583
+epoch 4, loss 0.5177, acc 0.8583
+final test: 0.8586, std 0.0000
+training 13
+epoch 0, loss 2.6430, acc 0.8583
+epoch 1, loss 0.9964, acc 0.8583
+epoch 2, loss 0.6243, acc 0.8583
+epoch 3, loss 0.5465, acc 0.8583
+epoch 4, loss 0.5256, acc 0.8583
+final test: 0.8586, std 0.0000
+training 14
+epoch 0, loss 2.6844, acc 0.8583
+epoch 1, loss 0.8184, acc 0.8583
+epoch 2, loss 0.5742, acc 0.8583
+epoch 3, loss 0.5500, acc 0.8583
+epoch 4, loss 0.5525, acc 0.8583
+final test: 0.8586, std 0.0000
+training 15
+epoch 0, loss 2.6734, acc 0.8583
+epoch 1, loss 0.8696, acc 0.8583
+epoch 2, loss 0.5699, acc 0.8583
+epoch 3, loss 0.5463, acc 0.8583
+epoch 4, loss 0.5652, acc 0.8583
+final test: 0.8586, std 0.0000
+training 16
+epoch 0, loss 2.7101, acc 0.8583
+epoch 1, loss 0.9006, acc 0.8583
+epoch 2, loss 0.5829, acc 0.8583
+epoch 3, loss 0.5446, acc 0.8583
+epoch 4, loss 0.5302, acc 0.8583
+final test: 0.8586, std 0.0000
+training 17
+epoch 0, loss 2.6672, acc 0.8583
+epoch 1, loss 0.9414, acc 0.8583
+epoch 2, loss 0.5784, acc 0.8583
+epoch 3, loss 0.5972, acc 0.8583
+epoch 4, loss 0.5413, acc 0.8583
+final test: 0.8586, std 0.0000
+training 18
+epoch 0, loss 2.6145, acc 0.8583
+epoch 1, loss 0.8926, acc 0.8583
+epoch 2, loss 0.5742, acc 0.8583
+epoch 3, loss 0.5727, acc 0.8583
+epoch 4, loss 0.5148, acc 0.8583
+final test: 0.8586, std 0.0000
+training 19
+epoch 0, loss 2.6877, acc 0.8583
+epoch 1, loss 0.8556, acc 0.8583
+epoch 2, loss 0.5226, acc 0.8583
+epoch 3, loss 0.5442, acc 0.8583
+epoch 4, loss 0.5064, acc 0.8583
+final test: 0.8586, std 0.0000
+training 20
+epoch 0, loss 2.7042, acc 0.8583
+epoch 1, loss 0.9126, acc 0.8583
+epoch 2, loss 0.5815, acc 0.8583
+epoch 3, loss 0.5974, acc 0.8583
+epoch 4, loss 0.4976, acc 0.8583
+final test: 0.8586, std 0.0000
+training 21
+epoch 0, loss 2.4081, acc 0.8583
+epoch 1, loss 0.8398, acc 0.8583
+epoch 2, loss 0.5872, acc 0.8583
+epoch 3, loss 0.5492, acc 0.8583
+epoch 4, loss 0.4902, acc 0.8583
+final test: 0.8586, std 0.0000
+training 22
+epoch 0, loss 2.6811, acc 0.8583
+epoch 1, loss 0.8882, acc 0.8583
+epoch 2, loss 0.6391, acc 0.8583
+epoch 3, loss 0.5936, acc 0.8583
+epoch 4, loss 0.4778, acc 0.8583
+final test: 0.8586, std 0.0000
+training 23
+epoch 0, loss 2.4030, acc 0.8583
+epoch 1, loss 0.8843, acc 0.8583
+epoch 2, loss 0.6886, acc 0.8583
+epoch 3, loss 0.5484, acc 0.8583
+epoch 4, loss 0.5350, acc 0.8583
+final test: 0.8586, std 0.0000
+training 24
+epoch 0, loss 2.6694, acc 0.8583
+epoch 1, loss 0.8276, acc 0.8583
+epoch 2, loss 0.5763, acc 0.8583
+epoch 3, loss 0.5461, acc 0.8583
+epoch 4, loss 0.5097, acc 0.8583
+final test: 0.8586, std 0.0000
+training 25
+epoch 0, loss 2.5624, acc 0.8583
+epoch 1, loss 0.8934, acc 0.8583
+epoch 2, loss 0.6304, acc 0.8583
+epoch 3, loss 0.5792, acc 0.8583
+epoch 4, loss 0.5313, acc 0.8583
+final test: 0.8586, std 0.0000
+training 26
+epoch 0, loss 2.6517, acc 0.8583
+epoch 1, loss 0.8008, acc 0.8583
+epoch 2, loss 0.6062, acc 0.8583
+epoch 3, loss 0.5545, acc 0.8583
+epoch 4, loss 0.5120, acc 0.8583
+final test: 0.8586, std 0.0000
+training 27
+epoch 0, loss 2.5577, acc 0.8583
+epoch 1, loss 0.9388, acc 0.8583
+epoch 2, loss 0.5728, acc 0.8583
+epoch 3, loss 0.5699, acc 0.8583
+epoch 4, loss 0.5312, acc 0.8583
+final test: 0.8586, std 0.0000
+training 28
+epoch 0, loss 2.7389, acc 0.8583
+epoch 1, loss 0.9113, acc 0.8583
+epoch 2, loss 0.5646, acc 0.8583
+epoch 3, loss 0.5649, acc 0.8583
+epoch 4, loss 0.5179, acc 0.8583
+final test: 0.8586, std 0.0000
+training 29
+epoch 0, loss 2.7278, acc 0.8583
+epoch 1, loss 0.8852, acc 0.8583
+epoch 2, loss 0.6236, acc 0.8583
+epoch 3, loss 0.5748, acc 0.8583
+epoch 4, loss 0.5128, acc 0.8583
+final test: 0.8586, std 0.0000
+training 30
+epoch 0, loss 2.7053, acc 0.8583
+epoch 1, loss 0.8712, acc 0.8583
+epoch 2, loss 0.6360, acc 0.8583
+epoch 3, loss 0.5112, acc 0.8583
+epoch 4, loss 0.5023, acc 0.8583
+final test: 0.8586, std 0.0000
+training 31
+epoch 0, loss 2.7192, acc 0.8583
+epoch 1, loss 0.9943, acc 0.8583
+epoch 2, loss 0.5872, acc 0.8583
+epoch 3, loss 0.5521, acc 0.8583
+epoch 4, loss 0.5369, acc 0.8583
+final test: 0.8586, std 0.0000
+training 32
+epoch 0, loss 2.6767, acc 0.8583
+epoch 1, loss 0.9103, acc 0.8583
+epoch 2, loss 0.6555, acc 0.8583
+epoch 3, loss 0.5290, acc 0.8583
+epoch 4, loss 0.5559, acc 0.8583
+final test: 0.8586, std 0.0000
+training 33
+epoch 0, loss 2.7170, acc 0.8581
+epoch 1, loss 0.8777, acc 0.8583
+epoch 2, loss 0.5717, acc 0.8583
+epoch 3, loss 0.6138, acc 0.8583
+epoch 4, loss 0.5462, acc 0.8583
+final test: 0.8586, std 0.0000
+training 34
+epoch 0, loss 2.7159, acc 0.8583
+epoch 1, loss 0.9436, acc 0.8583
+epoch 2, loss 0.6252, acc 0.8583
+epoch 3, loss 0.5382, acc 0.8583
+epoch 4, loss 0.5707, acc 0.8583
+final test: 0.8586, std 0.0000
+training 35
+epoch 0, loss 2.6902, acc 0.8583
+epoch 1, loss 0.9322, acc 0.8583
+epoch 2, loss 0.5939, acc 0.8583
+epoch 3, loss 0.5039, acc 0.8583
+epoch 4, loss 0.5500, acc 0.8583
+final test: 0.8586, std 0.0000
+training 36
+epoch 0, loss 2.6920, acc 0.8583
+epoch 1, loss 0.9007, acc 0.8583
+epoch 2, loss 0.5933, acc 0.8583
+epoch 3, loss 0.5662, acc 0.8583
+epoch 4, loss 0.5114, acc 0.8583
+final test: 0.8586, std 0.0000
+training 37
+epoch 0, loss 2.6667, acc 0.8583
+epoch 1, loss 0.8642, acc 0.8583
+epoch 2, loss 0.5710, acc 0.8583
+epoch 3, loss 0.5590, acc 0.8583
+epoch 4, loss 0.5218, acc 0.8583
+final test: 0.8586, std 0.0000
+training 38
+epoch 0, loss 2.6783, acc 0.8583
+epoch 1, loss 0.8798, acc 0.8583
+epoch 2, loss 0.5627, acc 0.8583
+epoch 3, loss 0.5575, acc 0.8583
+epoch 4, loss 0.5797, acc 0.8583
+final test: 0.8586, std 0.0000
+training 39
+epoch 0, loss 2.7040, acc 0.8583
+epoch 1, loss 0.8858, acc 0.8583
+epoch 2, loss 0.6044, acc 0.8583
+epoch 3, loss 0.5768, acc 0.8583
+epoch 4, loss 0.5485, acc 0.8583
+final test: 0.8586, std 0.0000
+training 40
+epoch 0, loss 2.6618, acc 0.8583
+epoch 1, loss 1.0135, acc 0.8583
+epoch 2, loss 0.5862, acc 0.8583
+epoch 3, loss 0.5395, acc 0.8583
+epoch 4, loss 0.5062, acc 0.8583
+final test: 0.8586, std 0.0000
+training 41
+epoch 0, loss 2.7399, acc 0.8583
+epoch 1, loss 0.8885, acc 0.8583
+epoch 2, loss 0.6076, acc 0.8583
+epoch 3, loss 0.5155, acc 0.8583
+epoch 4, loss 0.5230, acc 0.8583
+final test: 0.8586, std 0.0000
+training 42
+epoch 0, loss 2.6942, acc 0.8583
+epoch 1, loss 0.8374, acc 0.8583
+epoch 2, loss 0.6065, acc 0.8583
+epoch 3, loss 0.5933, acc 0.8583
+epoch 4, loss 0.5406, acc 0.8583
+final test: 0.8586, std 0.0000
+training 43
+epoch 0, loss 2.7068, acc 0.8583
+epoch 1, loss 0.8834, acc 0.8583
+epoch 2, loss 0.5392, acc 0.8583
+epoch 3, loss 0.5800, acc 0.8583
+epoch 4, loss 0.5687, acc 0.8583
+final test: 0.8586, std 0.0000
+training 44
+epoch 0, loss 2.7140, acc 0.8583
+epoch 1, loss 0.9154, acc 0.8583
+epoch 2, loss 0.6330, acc 0.8583
+epoch 3, loss 0.5469, acc 0.8583
+epoch 4, loss 0.5699, acc 0.8583
+final test: 0.8586, std 0.0000
+training 45
+epoch 0, loss 2.6656, acc 0.8583
+epoch 1, loss 0.8625, acc 0.8583
+epoch 2, loss 0.5753, acc 0.8583
+epoch 3, loss 0.5612, acc 0.8583
+epoch 4, loss 0.5523, acc 0.8583
+final test: 0.8586, std 0.0000
+training 46
+epoch 0, loss 2.5058, acc 0.8583
+epoch 1, loss 0.9316, acc 0.8583
+epoch 2, loss 0.5348, acc 0.8583
+epoch 3, loss 0.5462, acc 0.8583
+epoch 4, loss 0.5202, acc 0.8583
+final test: 0.8586, std 0.0000
+training 47
+epoch 0, loss 2.4357, acc 0.8583
+epoch 1, loss 0.8221, acc 0.8583
+epoch 2, loss 0.5550, acc 0.8583
+epoch 3, loss 0.5544, acc 0.8583
+epoch 4, loss 0.5219, acc 0.8583
+final test: 0.8586, std 0.0000
+training 48
+epoch 0, loss 2.6202, acc 0.8583
+epoch 1, loss 0.8583, acc 0.8583
+epoch 2, loss 0.6011, acc 0.8583
+epoch 3, loss 0.5075, acc 0.8583
+epoch 4, loss 0.5082, acc 0.8583
+final test: 0.8586, std 0.0000
+training 49
+epoch 0, loss 2.5862, acc 0.8583
+epoch 1, loss 0.8843, acc 0.8583
+epoch 2, loss 0.5929, acc 0.8583
+epoch 3, loss 0.5604, acc 0.8583
+epoch 4, loss 0.5067, acc 0.8583
+final test: 0.8586, std 0.0000
+euclid: mean 0.2611618781089783(0.043878862667565945)
+cos: mean 0.9470364832878113(0.018995024046915335)
+dot: mean 0.5917972338199615(0.05440569944684995)

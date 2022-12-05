@@ -1,0 +1,1353 @@
+Done loading data from cached files.
+[031mexp1[0m 
+
+epoch 0, loss 2.8685, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3484, valid acc 0.9952
+epoch 5, loss -0.6299, valid acc 0.9595
+epoch 10, loss -0.6748, valid acc 0.9787
+epoch 15, loss -0.6892, valid acc 0.9891
+epoch 20, loss -0.7146, valid acc 0.9952
+epoch 25, loss -0.6768, valid acc 0.9983
+epoch 30, loss -0.6920, valid acc 0.9989
+epoch 35, loss -0.6804, valid acc 0.9989
+epoch 40, loss -0.6866, valid acc 0.9998
+epoch 45, loss -0.6750, valid acc 0.9998
+epoch 50, loss -0.6832, valid acc 0.9998
+epoch 55, loss -0.7118, valid acc 0.9998
+epoch 60, loss -0.7023, valid acc 0.9998
+epoch 65, loss -0.6760, valid acc 0.9998
+epoch 70, loss -0.6754, valid acc 0.9998
+epoch 75, loss -0.6970, valid acc 0.9998
+epoch 80, loss -0.6815, valid acc 0.9998
+epoch 85, loss -0.6823, valid acc 0.9998
+epoch 90, loss -0.7224, valid acc 0.9998
+epoch 95, loss -0.7015, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp2[0m 
+
+epoch 0, loss 2.8643, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3498, valid acc 0.9909
+epoch 5, loss -0.6356, valid acc 0.9408
+epoch 10, loss -0.6770, valid acc 0.9582
+epoch 15, loss -0.6715, valid acc 0.9684
+epoch 20, loss -0.6807, valid acc 0.9824
+epoch 25, loss -0.6756, valid acc 0.9906
+epoch 30, loss -0.6662, valid acc 0.9941
+epoch 35, loss -0.6723, valid acc 0.9950
+epoch 40, loss -0.6732, valid acc 0.9961
+epoch 45, loss -0.6747, valid acc 0.9976
+epoch 50, loss -0.6859, valid acc 0.9983
+epoch 55, loss -0.6835, valid acc 0.9985
+epoch 60, loss -0.6994, valid acc 0.9989
+epoch 65, loss -0.6721, valid acc 0.9996
+epoch 70, loss -0.7039, valid acc 0.9998
+epoch 75, loss -0.6840, valid acc 0.9998
+epoch 80, loss -0.6680, valid acc 0.9998
+epoch 85, loss -0.6737, valid acc 0.9998
+epoch 90, loss -0.6929, valid acc 0.9998
+epoch 95, loss -0.6857, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp3[0m 
+
+epoch 0, loss 2.8500, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3486, valid acc 0.9917
+epoch 5, loss -0.6621, valid acc 0.9532
+epoch 10, loss -0.6538, valid acc 0.9734
+epoch 15, loss -0.6960, valid acc 0.9854
+epoch 20, loss -0.6663, valid acc 0.9913
+epoch 25, loss -0.6949, valid acc 0.9970
+epoch 30, loss -0.7031, valid acc 0.9989
+epoch 35, loss -0.7064, valid acc 0.9996
+epoch 40, loss -0.7001, valid acc 0.9993
+epoch 45, loss -0.7001, valid acc 0.9998
+epoch 50, loss -0.6865, valid acc 0.9998
+epoch 55, loss -0.6565, valid acc 0.9998
+epoch 60, loss -0.6880, valid acc 0.9998
+epoch 65, loss -0.6990, valid acc 0.9998
+epoch 70, loss -0.6913, valid acc 0.9998
+epoch 75, loss -0.6967, valid acc 0.9998
+epoch 80, loss -0.7037, valid acc 0.9998
+epoch 85, loss -0.7044, valid acc 0.9998
+epoch 90, loss -0.6909, valid acc 0.9998
+epoch 95, loss -0.6944, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp4[0m 
+
+epoch 0, loss 2.8541, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3505, valid acc 0.9933
+epoch 5, loss -0.6512, valid acc 0.9502
+epoch 10, loss -0.6605, valid acc 0.9687
+epoch 15, loss -0.6818, valid acc 0.9815
+epoch 20, loss -0.6786, valid acc 0.9909
+epoch 25, loss -0.6875, valid acc 0.9946
+epoch 30, loss -0.7013, valid acc 0.9965
+epoch 35, loss -0.7066, valid acc 0.9978
+epoch 40, loss -0.7191, valid acc 0.9991
+epoch 45, loss -0.6871, valid acc 0.9993
+epoch 50, loss -0.6982, valid acc 0.9998
+epoch 55, loss -0.7057, valid acc 0.9998
+epoch 60, loss -0.7178, valid acc 0.9998
+epoch 65, loss -0.6961, valid acc 0.9998
+epoch 70, loss -0.7182, valid acc 0.9998
+epoch 75, loss -0.6944, valid acc 0.9998
+epoch 80, loss -0.6871, valid acc 0.9998
+epoch 85, loss -0.7101, valid acc 0.9998
+epoch 90, loss -0.7035, valid acc 0.9998
+epoch 95, loss -0.7090, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp5[0m 
+
+epoch 0, loss 2.8655, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3449, valid acc 0.9941
+epoch 5, loss -0.6362, valid acc 0.9506
+epoch 10, loss -0.6616, valid acc 0.9704
+epoch 15, loss -0.6741, valid acc 0.9795
+epoch 20, loss -0.6922, valid acc 0.9900
+epoch 25, loss -0.6849, valid acc 0.9937
+epoch 30, loss -0.6758, valid acc 0.9974
+epoch 35, loss -0.6756, valid acc 0.9983
+epoch 40, loss -0.6639, valid acc 0.9987
+epoch 45, loss -0.7083, valid acc 0.9989
+epoch 50, loss -0.7032, valid acc 0.9996
+epoch 55, loss -0.6985, valid acc 0.9998
+epoch 60, loss -0.6970, valid acc 0.9998
+epoch 65, loss -0.7145, valid acc 0.9998
+epoch 70, loss -0.6956, valid acc 0.9998
+epoch 75, loss -0.6977, valid acc 0.9998
+epoch 80, loss -0.6939, valid acc 0.9998
+epoch 85, loss -0.6872, valid acc 0.9998
+epoch 90, loss -0.7068, valid acc 0.9998
+epoch 95, loss -0.6915, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp6[0m 
+
+epoch 0, loss 2.7765, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.2897, valid acc 0.9959
+epoch 5, loss -0.6361, valid acc 0.9325
+epoch 10, loss -0.6549, valid acc 0.9536
+epoch 15, loss -0.6884, valid acc 0.9667
+epoch 20, loss -0.6894, valid acc 0.9741
+epoch 25, loss -0.6746, valid acc 0.9808
+epoch 30, loss -0.6819, valid acc 0.9863
+epoch 35, loss -0.6831, valid acc 0.9904
+epoch 40, loss -0.6795, valid acc 0.9919
+epoch 45, loss -0.6649, valid acc 0.9941
+epoch 50, loss -0.7110, valid acc 0.9952
+epoch 55, loss -0.7048, valid acc 0.9965
+epoch 60, loss -0.7100, valid acc 0.9972
+epoch 65, loss -0.7038, valid acc 0.9983
+epoch 70, loss -0.6983, valid acc 0.9985
+epoch 75, loss -0.7116, valid acc 0.9991
+epoch 80, loss -0.6900, valid acc 0.9998
+epoch 85, loss -0.6852, valid acc 0.9998
+epoch 90, loss -0.6844, valid acc 0.9998
+epoch 95, loss -0.7229, valid acc 0.9993
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp7[0m 
+
+epoch 0, loss 2.8602, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3252, valid acc 0.9937
+epoch 5, loss -0.6389, valid acc 0.9693
+epoch 10, loss -0.6683, valid acc 0.9854
+epoch 15, loss -0.6890, valid acc 0.9948
+epoch 20, loss -0.6871, valid acc 0.9974
+epoch 25, loss -0.7157, valid acc 0.9989
+epoch 30, loss -0.6777, valid acc 0.9996
+epoch 35, loss -0.7118, valid acc 0.9998
+epoch 40, loss -0.7126, valid acc 0.9998
+epoch 45, loss -0.6801, valid acc 0.9998
+epoch 50, loss -0.6786, valid acc 0.9998
+epoch 55, loss -0.7298, valid acc 0.9998
+epoch 60, loss -0.7055, valid acc 0.9998
+epoch 65, loss -0.7029, valid acc 0.9998
+epoch 70, loss -0.6939, valid acc 0.9998
+epoch 75, loss -0.7036, valid acc 0.9998
+epoch 80, loss -0.7027, valid acc 0.9998
+epoch 85, loss -0.7190, valid acc 0.9998
+epoch 90, loss -0.6908, valid acc 0.9998
+epoch 95, loss -0.6958, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp8[0m 
+
+epoch 0, loss 2.8748, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3465, valid acc 0.9922
+epoch 5, loss -0.6152, valid acc 0.9504
+epoch 10, loss -0.6768, valid acc 0.9671
+epoch 15, loss -0.6806, valid acc 0.9815
+epoch 20, loss -0.6983, valid acc 0.9904
+epoch 25, loss -0.6754, valid acc 0.9954
+epoch 30, loss -0.7198, valid acc 0.9970
+epoch 35, loss -0.7107, valid acc 0.9978
+epoch 40, loss -0.7048, valid acc 0.9985
+epoch 45, loss -0.6654, valid acc 0.9993
+epoch 50, loss -0.7119, valid acc 0.9991
+epoch 55, loss -0.6817, valid acc 0.9998
+epoch 60, loss -0.7103, valid acc 0.9998
+epoch 65, loss -0.7041, valid acc 0.9998
+epoch 70, loss -0.6951, valid acc 0.9998
+epoch 75, loss -0.6971, valid acc 0.9998
+epoch 80, loss -0.7053, valid acc 0.9998
+epoch 85, loss -0.6728, valid acc 0.9998
+epoch 90, loss -0.6929, valid acc 0.9998
+epoch 95, loss -0.6947, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp9[0m 
+
+epoch 0, loss 2.8671, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3501, valid acc 0.9941
+epoch 5, loss -0.6481, valid acc 0.9613
+epoch 10, loss -0.6664, valid acc 0.9848
+epoch 15, loss -0.6716, valid acc 0.9948
+epoch 20, loss -0.6925, valid acc 0.9983
+epoch 25, loss -0.6900, valid acc 0.9993
+epoch 30, loss -0.6869, valid acc 0.9996
+epoch 35, loss -0.7056, valid acc 0.9998
+epoch 40, loss -0.7164, valid acc 0.9998
+epoch 45, loss -0.7061, valid acc 0.9998
+epoch 50, loss -0.6929, valid acc 0.9998
+epoch 55, loss -0.6961, valid acc 0.9998
+epoch 60, loss -0.6931, valid acc 0.9998
+epoch 65, loss -0.7143, valid acc 0.9998
+epoch 70, loss -0.7022, valid acc 0.9998
+epoch 75, loss -0.6929, valid acc 0.9998
+epoch 80, loss -0.6962, valid acc 0.9998
+epoch 85, loss -0.7176, valid acc 0.9998
+epoch 90, loss -0.6821, valid acc 0.9998
+epoch 95, loss -0.7080, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp10[0m 
+
+epoch 0, loss 2.8972, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3461, valid acc 0.9930
+epoch 5, loss -0.6376, valid acc 0.9541
+epoch 10, loss -0.6520, valid acc 0.9789
+epoch 15, loss -0.6729, valid acc 0.9909
+epoch 20, loss -0.6986, valid acc 0.9952
+epoch 25, loss -0.7022, valid acc 0.9963
+epoch 30, loss -0.7022, valid acc 0.9967
+epoch 35, loss -0.6750, valid acc 0.9983
+epoch 40, loss -0.7029, valid acc 0.9989
+epoch 45, loss -0.6886, valid acc 0.9991
+epoch 50, loss -0.6997, valid acc 0.9998
+epoch 55, loss -0.7002, valid acc 0.9998
+epoch 60, loss -0.6920, valid acc 0.9998
+epoch 65, loss -0.7026, valid acc 0.9998
+epoch 70, loss -0.6820, valid acc 0.9998
+epoch 75, loss -0.6865, valid acc 0.9998
+epoch 80, loss -0.7133, valid acc 0.9998
+epoch 85, loss -0.6945, valid acc 0.9998
+epoch 90, loss -0.6864, valid acc 0.9998
+epoch 95, loss -0.7026, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp11[0m 
+
+epoch 0, loss 2.8258, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3451, valid acc 0.9919
+epoch 5, loss -0.5982, valid acc 0.9591
+epoch 10, loss -0.6598, valid acc 0.9798
+epoch 15, loss -0.6781, valid acc 0.9915
+epoch 20, loss -0.6774, valid acc 0.9956
+epoch 25, loss -0.7133, valid acc 0.9991
+epoch 30, loss -0.7056, valid acc 0.9993
+epoch 35, loss -0.6823, valid acc 0.9998
+epoch 40, loss -0.7017, valid acc 0.9998
+epoch 45, loss -0.7029, valid acc 0.9998
+epoch 50, loss -0.6794, valid acc 0.9998
+epoch 55, loss -0.7018, valid acc 0.9998
+epoch 60, loss -0.6878, valid acc 0.9998
+epoch 65, loss -0.6990, valid acc 0.9998
+epoch 70, loss -0.7017, valid acc 0.9998
+epoch 75, loss -0.6678, valid acc 0.9998
+epoch 80, loss -0.6847, valid acc 0.9998
+epoch 85, loss -0.6964, valid acc 0.9998
+epoch 90, loss -0.7216, valid acc 0.9998
+epoch 95, loss -0.6940, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp12[0m 
+
+epoch 0, loss 2.8282, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3399, valid acc 0.9935
+epoch 5, loss -0.6316, valid acc 0.9497
+epoch 10, loss -0.6491, valid acc 0.9739
+epoch 15, loss -0.6817, valid acc 0.9878
+epoch 20, loss -0.7075, valid acc 0.9943
+epoch 25, loss -0.6792, valid acc 0.9970
+epoch 30, loss -0.6948, valid acc 0.9993
+epoch 35, loss -0.7032, valid acc 0.9998
+epoch 40, loss -0.6849, valid acc 0.9998
+epoch 45, loss -0.6721, valid acc 0.9998
+epoch 50, loss -0.7005, valid acc 0.9998
+epoch 55, loss -0.6898, valid acc 0.9998
+epoch 60, loss -0.7020, valid acc 0.9998
+epoch 65, loss -0.7159, valid acc 0.9998
+epoch 70, loss -0.7115, valid acc 0.9998
+epoch 75, loss -0.6890, valid acc 0.9998
+epoch 80, loss -0.6830, valid acc 0.9998
+epoch 85, loss -0.6900, valid acc 0.9998
+epoch 90, loss -0.6920, valid acc 0.9998
+epoch 95, loss -0.7060, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp13[0m 
+
+epoch 0, loss 2.8645, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3442, valid acc 0.9911
+epoch 5, loss -0.6284, valid acc 0.9547
+epoch 10, loss -0.6787, valid acc 0.9695
+epoch 15, loss -0.6644, valid acc 0.9863
+epoch 20, loss -0.6905, valid acc 0.9924
+epoch 25, loss -0.6702, valid acc 0.9959
+epoch 30, loss -0.6724, valid acc 0.9974
+epoch 35, loss -0.6952, valid acc 0.9987
+epoch 40, loss -0.6941, valid acc 0.9996
+epoch 45, loss -0.6933, valid acc 0.9993
+epoch 50, loss -0.6986, valid acc 0.9998
+epoch 55, loss -0.7011, valid acc 0.9998
+epoch 60, loss -0.6826, valid acc 0.9996
+epoch 65, loss -0.6871, valid acc 0.9998
+epoch 70, loss -0.6835, valid acc 0.9998
+epoch 75, loss -0.6829, valid acc 0.9998
+epoch 80, loss -0.6925, valid acc 0.9998
+epoch 85, loss -0.6926, valid acc 0.9998
+epoch 90, loss -0.7059, valid acc 0.9998
+epoch 95, loss -0.7198, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp14[0m 
+
+epoch 0, loss 2.8368, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3422, valid acc 0.9933
+epoch 5, loss -0.6506, valid acc 0.9454
+epoch 10, loss -0.6851, valid acc 0.9663
+epoch 15, loss -0.6883, valid acc 0.9782
+epoch 20, loss -0.6897, valid acc 0.9854
+epoch 25, loss -0.6961, valid acc 0.9922
+epoch 30, loss -0.7110, valid acc 0.9965
+epoch 35, loss -0.7162, valid acc 0.9974
+epoch 40, loss -0.7080, valid acc 0.9980
+epoch 45, loss -0.7042, valid acc 0.9993
+epoch 50, loss -0.7054, valid acc 0.9996
+epoch 55, loss -0.6870, valid acc 0.9998
+epoch 60, loss -0.7150, valid acc 0.9998
+epoch 65, loss -0.6924, valid acc 0.9998
+epoch 70, loss -0.7112, valid acc 0.9998
+epoch 75, loss -0.7097, valid acc 0.9998
+epoch 80, loss -0.6873, valid acc 0.9998
+epoch 85, loss -0.7067, valid acc 0.9998
+epoch 90, loss -0.6933, valid acc 0.9998
+epoch 95, loss -0.6792, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp15[0m 
+
+epoch 0, loss 2.8465, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3467, valid acc 0.9917
+epoch 5, loss -0.6203, valid acc 0.9517
+epoch 10, loss -0.6765, valid acc 0.9700
+epoch 15, loss -0.6743, valid acc 0.9867
+epoch 20, loss -0.6881, valid acc 0.9917
+epoch 25, loss -0.6585, valid acc 0.9952
+epoch 30, loss -0.6911, valid acc 0.9965
+epoch 35, loss -0.7148, valid acc 0.9978
+epoch 40, loss -0.6836, valid acc 0.9987
+epoch 45, loss -0.6849, valid acc 0.9993
+epoch 50, loss -0.7020, valid acc 0.9993
+epoch 55, loss -0.6991, valid acc 0.9996
+epoch 60, loss -0.7005, valid acc 0.9998
+epoch 65, loss -0.6902, valid acc 0.9998
+epoch 70, loss -0.7130, valid acc 0.9998
+epoch 75, loss -0.7199, valid acc 0.9998
+epoch 80, loss -0.6873, valid acc 0.9998
+epoch 85, loss -0.6990, valid acc 0.9998
+epoch 90, loss -0.7236, valid acc 0.9998
+epoch 95, loss -0.6783, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp16[0m 
+
+epoch 0, loss 2.8622, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3490, valid acc 0.9922
+epoch 5, loss -0.6458, valid acc 0.9465
+epoch 10, loss -0.6882, valid acc 0.9645
+epoch 15, loss -0.6780, valid acc 0.9765
+epoch 20, loss -0.6999, valid acc 0.9850
+epoch 25, loss -0.6742, valid acc 0.9900
+epoch 30, loss -0.6871, valid acc 0.9928
+epoch 35, loss -0.6997, valid acc 0.9948
+epoch 40, loss -0.6856, valid acc 0.9954
+epoch 45, loss -0.7069, valid acc 0.9970
+epoch 50, loss -0.7016, valid acc 0.9967
+epoch 55, loss -0.7100, valid acc 0.9976
+epoch 60, loss -0.6814, valid acc 0.9985
+epoch 65, loss -0.6926, valid acc 0.9980
+epoch 70, loss -0.7080, valid acc 0.9989
+epoch 75, loss -0.6962, valid acc 0.9987
+epoch 80, loss -0.7027, valid acc 0.9996
+epoch 85, loss -0.6896, valid acc 0.9996
+epoch 90, loss -0.6954, valid acc 0.9996
+epoch 95, loss -0.6939, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp17[0m 
+
+epoch 0, loss 2.8814, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3491, valid acc 0.9937
+epoch 5, loss -0.6440, valid acc 0.9556
+epoch 10, loss -0.6870, valid acc 0.9697
+epoch 15, loss -0.6876, valid acc 0.9806
+epoch 20, loss -0.6905, valid acc 0.9891
+epoch 25, loss -0.6760, valid acc 0.9959
+epoch 30, loss -0.6713, valid acc 0.9976
+epoch 35, loss -0.6850, valid acc 0.9991
+epoch 40, loss -0.7070, valid acc 0.9993
+epoch 45, loss -0.6765, valid acc 0.9998
+epoch 50, loss -0.6949, valid acc 0.9998
+epoch 55, loss -0.6991, valid acc 0.9998
+epoch 60, loss -0.6946, valid acc 0.9998
+epoch 65, loss -0.6904, valid acc 0.9998
+epoch 70, loss -0.6938, valid acc 0.9998
+epoch 75, loss -0.6796, valid acc 0.9998
+epoch 80, loss -0.6765, valid acc 0.9998
+epoch 85, loss -0.7086, valid acc 0.9998
+epoch 90, loss -0.7214, valid acc 0.9998
+epoch 95, loss -0.7165, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp18[0m 
+
+epoch 0, loss 2.8680, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3374, valid acc 0.9928
+epoch 5, loss -0.6325, valid acc 0.9550
+epoch 10, loss -0.6666, valid acc 0.9734
+epoch 15, loss -0.6855, valid acc 0.9900
+epoch 20, loss -0.6811, valid acc 0.9948
+epoch 25, loss -0.6848, valid acc 0.9978
+epoch 30, loss -0.6840, valid acc 0.9991
+epoch 35, loss -0.7189, valid acc 0.9998
+epoch 40, loss -0.6809, valid acc 0.9998
+epoch 45, loss -0.6984, valid acc 0.9998
+epoch 50, loss -0.7067, valid acc 0.9998
+epoch 55, loss -0.6792, valid acc 0.9998
+epoch 60, loss -0.6844, valid acc 0.9998
+epoch 65, loss -0.6789, valid acc 0.9998
+epoch 70, loss -0.6985, valid acc 0.9998
+epoch 75, loss -0.7020, valid acc 0.9998
+epoch 80, loss -0.6827, valid acc 0.9998
+epoch 85, loss -0.7037, valid acc 0.9998
+epoch 90, loss -0.6983, valid acc 0.9998
+epoch 95, loss -0.7085, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp19[0m 
+
+epoch 0, loss 2.8632, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3601, valid acc 0.9915
+epoch 5, loss -0.6198, valid acc 0.9421
+epoch 10, loss -0.6893, valid acc 0.9567
+epoch 15, loss -0.6872, valid acc 0.9654
+epoch 20, loss -0.6998, valid acc 0.9732
+epoch 25, loss -0.6948, valid acc 0.9835
+epoch 30, loss -0.6961, valid acc 0.9891
+epoch 35, loss -0.6939, valid acc 0.9956
+epoch 40, loss -0.6987, valid acc 0.9956
+epoch 45, loss -0.6800, valid acc 0.9980
+epoch 50, loss -0.6950, valid acc 0.9991
+epoch 55, loss -0.6842, valid acc 0.9989
+epoch 60, loss -0.7111, valid acc 0.9993
+epoch 65, loss -0.6907, valid acc 0.9996
+epoch 70, loss -0.6859, valid acc 0.9996
+epoch 75, loss -0.7084, valid acc 0.9996
+epoch 80, loss -0.6804, valid acc 0.9998
+epoch 85, loss -0.6994, valid acc 0.9998
+epoch 90, loss -0.6808, valid acc 0.9998
+epoch 95, loss -0.7086, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp20[0m 
+
+epoch 0, loss 2.8626, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3351, valid acc 0.9928
+epoch 5, loss -0.6354, valid acc 0.9541
+epoch 10, loss -0.6880, valid acc 0.9785
+epoch 15, loss -0.6898, valid acc 0.9911
+epoch 20, loss -0.6885, valid acc 0.9959
+epoch 25, loss -0.6914, valid acc 0.9963
+epoch 30, loss -0.6951, valid acc 0.9985
+epoch 35, loss -0.7008, valid acc 0.9996
+epoch 40, loss -0.7095, valid acc 0.9998
+epoch 45, loss -0.7023, valid acc 0.9998
+epoch 50, loss -0.6945, valid acc 0.9998
+epoch 55, loss -0.6670, valid acc 0.9998
+epoch 60, loss -0.7012, valid acc 0.9998
+epoch 65, loss -0.6893, valid acc 0.9998
+epoch 70, loss -0.7016, valid acc 0.9998
+epoch 75, loss -0.7046, valid acc 0.9998
+epoch 80, loss -0.6973, valid acc 0.9998
+epoch 85, loss -0.6992, valid acc 0.9998
+epoch 90, loss -0.7161, valid acc 0.9998
+epoch 95, loss -0.6937, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp21[0m 
+
+epoch 0, loss 2.8580, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3450, valid acc 0.9924
+epoch 5, loss -0.6392, valid acc 0.9399
+epoch 10, loss -0.6628, valid acc 0.9606
+epoch 15, loss -0.6889, valid acc 0.9758
+epoch 20, loss -0.6739, valid acc 0.9841
+epoch 25, loss -0.6962, valid acc 0.9898
+epoch 30, loss -0.7010, valid acc 0.9930
+epoch 35, loss -0.6952, valid acc 0.9943
+epoch 40, loss -0.6875, valid acc 0.9961
+epoch 45, loss -0.6892, valid acc 0.9967
+epoch 50, loss -0.7189, valid acc 0.9978
+epoch 55, loss -0.6915, valid acc 0.9978
+epoch 60, loss -0.6886, valid acc 0.9985
+epoch 65, loss -0.7067, valid acc 0.9991
+epoch 70, loss -0.7046, valid acc 0.9991
+epoch 75, loss -0.6869, valid acc 0.9993
+epoch 80, loss -0.7105, valid acc 0.9998
+epoch 85, loss -0.6999, valid acc 0.9998
+epoch 90, loss -0.6835, valid acc 0.9998
+epoch 95, loss -0.6973, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp22[0m 
+
+epoch 0, loss 2.8267, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3282, valid acc 0.9939
+epoch 5, loss -0.6402, valid acc 0.9452
+epoch 10, loss -0.6531, valid acc 0.9591
+epoch 15, loss -0.6582, valid acc 0.9767
+epoch 20, loss -0.6867, valid acc 0.9832
+epoch 25, loss -0.6884, valid acc 0.9906
+epoch 30, loss -0.6922, valid acc 0.9943
+epoch 35, loss -0.6990, valid acc 0.9972
+epoch 40, loss -0.6965, valid acc 0.9985
+epoch 45, loss -0.6744, valid acc 0.9991
+epoch 50, loss -0.7057, valid acc 0.9996
+epoch 55, loss -0.6994, valid acc 0.9996
+epoch 60, loss -0.7095, valid acc 0.9998
+epoch 65, loss -0.6689, valid acc 0.9998
+epoch 70, loss -0.6845, valid acc 0.9998
+epoch 75, loss -0.7095, valid acc 0.9998
+epoch 80, loss -0.7010, valid acc 0.9998
+epoch 85, loss -0.7012, valid acc 0.9998
+epoch 90, loss -0.6954, valid acc 0.9998
+epoch 95, loss -0.7166, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp23[0m 
+
+epoch 0, loss 2.8340, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3508, valid acc 0.9935
+epoch 5, loss -0.6386, valid acc 0.9380
+epoch 10, loss -0.6647, valid acc 0.9536
+epoch 15, loss -0.6881, valid acc 0.9689
+epoch 20, loss -0.6787, valid acc 0.9776
+epoch 25, loss -0.6841, valid acc 0.9850
+epoch 30, loss -0.6903, valid acc 0.9891
+epoch 35, loss -0.6809, valid acc 0.9941
+epoch 40, loss -0.7040, valid acc 0.9963
+epoch 45, loss -0.7065, valid acc 0.9976
+epoch 50, loss -0.6933, valid acc 0.9985
+epoch 55, loss -0.6895, valid acc 0.9989
+epoch 60, loss -0.6896, valid acc 0.9989
+epoch 65, loss -0.6791, valid acc 0.9993
+epoch 70, loss -0.7210, valid acc 0.9996
+epoch 75, loss -0.6844, valid acc 0.9991
+epoch 80, loss -0.7043, valid acc 0.9993
+epoch 85, loss -0.7024, valid acc 0.9996
+epoch 90, loss -0.6908, valid acc 0.9996
+epoch 95, loss -0.6990, valid acc 0.9993
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp24[0m 
+
+epoch 0, loss 2.8904, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3485, valid acc 0.9930
+epoch 5, loss -0.6241, valid acc 0.9610
+epoch 10, loss -0.6502, valid acc 0.9795
+epoch 15, loss -0.6905, valid acc 0.9926
+epoch 20, loss -0.6738, valid acc 0.9963
+epoch 25, loss -0.6955, valid acc 0.9972
+epoch 30, loss -0.6908, valid acc 0.9983
+epoch 35, loss -0.6933, valid acc 0.9991
+epoch 40, loss -0.7066, valid acc 0.9993
+epoch 45, loss -0.7000, valid acc 0.9996
+epoch 50, loss -0.6850, valid acc 0.9998
+epoch 55, loss -0.6913, valid acc 0.9998
+epoch 60, loss -0.6936, valid acc 0.9998
+epoch 65, loss -0.6912, valid acc 0.9998
+epoch 70, loss -0.6988, valid acc 0.9998
+epoch 75, loss -0.6981, valid acc 0.9998
+epoch 80, loss -0.7083, valid acc 0.9998
+epoch 85, loss -0.7023, valid acc 0.9998
+epoch 90, loss -0.6900, valid acc 0.9998
+epoch 95, loss -0.6893, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp25[0m 
+
+epoch 0, loss 2.8588, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3429, valid acc 0.9917
+epoch 5, loss -0.6221, valid acc 0.9397
+epoch 10, loss -0.6789, valid acc 0.9619
+epoch 15, loss -0.6710, valid acc 0.9758
+epoch 20, loss -0.6701, valid acc 0.9791
+epoch 25, loss -0.6947, valid acc 0.9859
+epoch 30, loss -0.7087, valid acc 0.9909
+epoch 35, loss -0.7114, valid acc 0.9937
+epoch 40, loss -0.6983, valid acc 0.9950
+epoch 45, loss -0.6993, valid acc 0.9967
+epoch 50, loss -0.6748, valid acc 0.9976
+epoch 55, loss -0.6835, valid acc 0.9985
+epoch 60, loss -0.6961, valid acc 0.9989
+epoch 65, loss -0.7077, valid acc 0.9989
+epoch 70, loss -0.7008, valid acc 0.9996
+epoch 75, loss -0.7058, valid acc 0.9998
+epoch 80, loss -0.7061, valid acc 0.9998
+epoch 85, loss -0.6949, valid acc 0.9998
+epoch 90, loss -0.7024, valid acc 0.9998
+epoch 95, loss -0.6802, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp26[0m 
+
+epoch 0, loss 2.8650, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3490, valid acc 0.9893
+epoch 5, loss -0.6179, valid acc 0.9425
+epoch 10, loss -0.6665, valid acc 0.9534
+epoch 15, loss -0.7000, valid acc 0.9628
+epoch 20, loss -0.6776, valid acc 0.9745
+epoch 25, loss -0.7048, valid acc 0.9845
+epoch 30, loss -0.6790, valid acc 0.9859
+epoch 35, loss -0.6866, valid acc 0.9896
+epoch 40, loss -0.7096, valid acc 0.9935
+epoch 45, loss -0.7079, valid acc 0.9946
+epoch 50, loss -0.6868, valid acc 0.9959
+epoch 55, loss -0.7164, valid acc 0.9974
+epoch 60, loss -0.7026, valid acc 0.9978
+epoch 65, loss -0.6972, valid acc 0.9987
+epoch 70, loss -0.6999, valid acc 0.9989
+epoch 75, loss -0.6936, valid acc 0.9985
+epoch 80, loss -0.7187, valid acc 0.9991
+epoch 85, loss -0.6847, valid acc 0.9989
+epoch 90, loss -0.6998, valid acc 0.9991
+epoch 95, loss -0.6917, valid acc 0.9993
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp27[0m 
+
+epoch 0, loss 2.8872, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3512, valid acc 0.9933
+epoch 5, loss -0.6291, valid acc 0.9439
+epoch 10, loss -0.6523, valid acc 0.9550
+epoch 15, loss -0.6964, valid acc 0.9671
+epoch 20, loss -0.6983, valid acc 0.9761
+epoch 25, loss -0.6753, valid acc 0.9859
+epoch 30, loss -0.7064, valid acc 0.9913
+epoch 35, loss -0.7045, valid acc 0.9946
+epoch 40, loss -0.7078, valid acc 0.9970
+epoch 45, loss -0.6825, valid acc 0.9974
+epoch 50, loss -0.7007, valid acc 0.9983
+epoch 55, loss -0.6964, valid acc 0.9991
+epoch 60, loss -0.7029, valid acc 0.9989
+epoch 65, loss -0.6934, valid acc 0.9991
+epoch 70, loss -0.7032, valid acc 0.9991
+epoch 75, loss -0.6935, valid acc 0.9993
+epoch 80, loss -0.6891, valid acc 0.9996
+epoch 85, loss -0.6998, valid acc 0.9993
+epoch 90, loss -0.6902, valid acc 0.9998
+epoch 95, loss -0.7027, valid acc 0.9996
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp28[0m 
+
+epoch 0, loss 2.8634, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3066, valid acc 0.9952
+epoch 5, loss -0.6085, valid acc 0.9536
+epoch 10, loss -0.6674, valid acc 0.9771
+epoch 15, loss -0.7019, valid acc 0.9882
+epoch 20, loss -0.6858, valid acc 0.9939
+epoch 25, loss -0.6841, valid acc 0.9974
+epoch 30, loss -0.6776, valid acc 0.9989
+epoch 35, loss -0.6989, valid acc 0.9993
+epoch 40, loss -0.6768, valid acc 0.9998
+epoch 45, loss -0.6987, valid acc 0.9998
+epoch 50, loss -0.7006, valid acc 0.9998
+epoch 55, loss -0.7113, valid acc 0.9998
+epoch 60, loss -0.7228, valid acc 0.9998
+epoch 65, loss -0.7082, valid acc 0.9998
+epoch 70, loss -0.6708, valid acc 0.9998
+epoch 75, loss -0.7039, valid acc 0.9998
+epoch 80, loss -0.7048, valid acc 0.9998
+epoch 85, loss -0.6998, valid acc 0.9998
+epoch 90, loss -0.6805, valid acc 0.9998
+epoch 95, loss -0.6999, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp29[0m 
+
+epoch 0, loss 2.8138, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3461, valid acc 0.9954
+epoch 5, loss -0.6293, valid acc 0.9582
+epoch 10, loss -0.6597, valid acc 0.9771
+epoch 15, loss -0.6735, valid acc 0.9872
+epoch 20, loss -0.6906, valid acc 0.9946
+epoch 25, loss -0.7013, valid acc 0.9974
+epoch 30, loss -0.6719, valid acc 0.9991
+epoch 35, loss -0.7150, valid acc 0.9998
+epoch 40, loss -0.6866, valid acc 0.9998
+epoch 45, loss -0.6994, valid acc 0.9998
+epoch 50, loss -0.7098, valid acc 0.9998
+epoch 55, loss -0.6803, valid acc 0.9998
+epoch 60, loss -0.6951, valid acc 0.9998
+epoch 65, loss -0.7003, valid acc 0.9998
+epoch 70, loss -0.6868, valid acc 0.9998
+epoch 75, loss -0.6647, valid acc 0.9998
+epoch 80, loss -0.6992, valid acc 0.9998
+epoch 85, loss -0.7128, valid acc 0.9998
+epoch 90, loss -0.7087, valid acc 0.9998
+epoch 95, loss -0.6948, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp30[0m 
+
+epoch 0, loss 2.8718, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3395, valid acc 0.9922
+epoch 5, loss -0.6393, valid acc 0.9556
+epoch 10, loss -0.6756, valid acc 0.9802
+epoch 15, loss -0.6936, valid acc 0.9922
+epoch 20, loss -0.6795, valid acc 0.9959
+epoch 25, loss -0.6822, valid acc 0.9970
+epoch 30, loss -0.6804, valid acc 0.9980
+epoch 35, loss -0.6868, valid acc 0.9989
+epoch 40, loss -0.7094, valid acc 0.9993
+epoch 45, loss -0.6804, valid acc 0.9996
+epoch 50, loss -0.6603, valid acc 0.9998
+epoch 55, loss -0.7151, valid acc 0.9998
+epoch 60, loss -0.7073, valid acc 0.9998
+epoch 65, loss -0.6924, valid acc 0.9998
+epoch 70, loss -0.6982, valid acc 0.9998
+epoch 75, loss -0.7018, valid acc 0.9998
+epoch 80, loss -0.6904, valid acc 0.9998
+epoch 85, loss -0.6822, valid acc 0.9998
+epoch 90, loss -0.7166, valid acc 0.9998
+epoch 95, loss -0.6704, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp31[0m 
+
+epoch 0, loss 2.8276, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3305, valid acc 0.9950
+epoch 5, loss -0.6692, valid acc 0.9578
+epoch 10, loss -0.6954, valid acc 0.9769
+epoch 15, loss -0.7019, valid acc 0.9867
+epoch 20, loss -0.7023, valid acc 0.9933
+epoch 25, loss -0.6940, valid acc 0.9961
+epoch 30, loss -0.7180, valid acc 0.9976
+epoch 35, loss -0.6783, valid acc 0.9991
+epoch 40, loss -0.6779, valid acc 0.9998
+epoch 45, loss -0.6639, valid acc 0.9998
+epoch 50, loss -0.6916, valid acc 0.9998
+epoch 55, loss -0.6855, valid acc 0.9998
+epoch 60, loss -0.6924, valid acc 0.9998
+epoch 65, loss -0.6816, valid acc 0.9998
+epoch 70, loss -0.6788, valid acc 0.9998
+epoch 75, loss -0.6785, valid acc 0.9998
+epoch 80, loss -0.6946, valid acc 0.9998
+epoch 85, loss -0.6809, valid acc 0.9998
+epoch 90, loss -0.7120, valid acc 0.9998
+epoch 95, loss -0.7137, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp32[0m 
+
+epoch 0, loss 2.8624, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3499, valid acc 0.9930
+epoch 5, loss -0.6105, valid acc 0.9460
+epoch 10, loss -0.6652, valid acc 0.9621
+epoch 15, loss -0.6691, valid acc 0.9713
+epoch 20, loss -0.6633, valid acc 0.9795
+epoch 25, loss -0.6716, valid acc 0.9850
+epoch 30, loss -0.6988, valid acc 0.9909
+epoch 35, loss -0.6837, valid acc 0.9935
+epoch 40, loss -0.7344, valid acc 0.9954
+epoch 45, loss -0.6953, valid acc 0.9974
+epoch 50, loss -0.6966, valid acc 0.9985
+epoch 55, loss -0.6943, valid acc 0.9991
+epoch 60, loss -0.6991, valid acc 0.9996
+epoch 65, loss -0.7155, valid acc 0.9993
+epoch 70, loss -0.7267, valid acc 0.9996
+epoch 75, loss -0.6913, valid acc 0.9996
+epoch 80, loss -0.7020, valid acc 0.9996
+epoch 85, loss -0.6934, valid acc 0.9998
+epoch 90, loss -0.7022, valid acc 0.9998
+epoch 95, loss -0.7243, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp33[0m 
+
+epoch 0, loss 2.8609, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3507, valid acc 0.9933
+epoch 5, loss -0.6250, valid acc 0.9495
+epoch 10, loss -0.6739, valid acc 0.9669
+epoch 15, loss -0.6970, valid acc 0.9798
+epoch 20, loss -0.7227, valid acc 0.9867
+epoch 25, loss -0.6956, valid acc 0.9909
+epoch 30, loss -0.6900, valid acc 0.9948
+epoch 35, loss -0.7133, valid acc 0.9980
+epoch 40, loss -0.7074, valid acc 0.9989
+epoch 45, loss -0.6958, valid acc 0.9991
+epoch 50, loss -0.6696, valid acc 0.9993
+epoch 55, loss -0.6687, valid acc 0.9996
+epoch 60, loss -0.7147, valid acc 0.9998
+epoch 65, loss -0.7018, valid acc 0.9998
+epoch 70, loss -0.6990, valid acc 0.9998
+epoch 75, loss -0.6933, valid acc 0.9998
+epoch 80, loss -0.7045, valid acc 0.9998
+epoch 85, loss -0.7053, valid acc 0.9998
+epoch 90, loss -0.7150, valid acc 0.9998
+epoch 95, loss -0.7021, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp34[0m 
+
+epoch 0, loss 2.8689, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3464, valid acc 0.9919
+epoch 5, loss -0.6258, valid acc 0.9423
+epoch 10, loss -0.6679, valid acc 0.9615
+epoch 15, loss -0.6576, valid acc 0.9774
+epoch 20, loss -0.6790, valid acc 0.9878
+epoch 25, loss -0.6628, valid acc 0.9919
+epoch 30, loss -0.6927, valid acc 0.9948
+epoch 35, loss -0.7177, valid acc 0.9967
+epoch 40, loss -0.7055, valid acc 0.9985
+epoch 45, loss -0.6949, valid acc 0.9991
+epoch 50, loss -0.7027, valid acc 0.9993
+epoch 55, loss -0.6879, valid acc 0.9996
+epoch 60, loss -0.6832, valid acc 0.9998
+epoch 65, loss -0.6789, valid acc 0.9998
+epoch 70, loss -0.7011, valid acc 0.9998
+epoch 75, loss -0.7006, valid acc 0.9998
+epoch 80, loss -0.7014, valid acc 0.9998
+epoch 85, loss -0.6757, valid acc 0.9998
+epoch 90, loss -0.6969, valid acc 0.9998
+epoch 95, loss -0.7061, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp35[0m 
+
+epoch 0, loss 2.8705, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3325, valid acc 0.9919
+epoch 5, loss -0.6202, valid acc 0.9513
+epoch 10, loss -0.6381, valid acc 0.9667
+epoch 15, loss -0.6901, valid acc 0.9811
+epoch 20, loss -0.6887, valid acc 0.9869
+epoch 25, loss -0.6720, valid acc 0.9926
+epoch 30, loss -0.7003, valid acc 0.9956
+epoch 35, loss -0.6853, valid acc 0.9976
+epoch 40, loss -0.6947, valid acc 0.9993
+epoch 45, loss -0.6927, valid acc 0.9991
+epoch 50, loss -0.7199, valid acc 0.9993
+epoch 55, loss -0.7001, valid acc 0.9998
+epoch 60, loss -0.7004, valid acc 0.9998
+epoch 65, loss -0.6958, valid acc 0.9998
+epoch 70, loss -0.7112, valid acc 0.9998
+epoch 75, loss -0.7167, valid acc 0.9998
+epoch 80, loss -0.7004, valid acc 0.9998
+epoch 85, loss -0.7079, valid acc 0.9998
+epoch 90, loss -0.7088, valid acc 0.9998
+epoch 95, loss -0.7076, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp36[0m 
+
+epoch 0, loss 2.8677, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3503, valid acc 0.9926
+epoch 5, loss -0.6303, valid acc 0.9452
+epoch 10, loss -0.6760, valid acc 0.9624
+epoch 15, loss -0.6708, valid acc 0.9734
+epoch 20, loss -0.6897, valid acc 0.9830
+epoch 25, loss -0.6927, valid acc 0.9891
+epoch 30, loss -0.6872, valid acc 0.9937
+epoch 35, loss -0.6802, valid acc 0.9956
+epoch 40, loss -0.6819, valid acc 0.9961
+epoch 45, loss -0.6945, valid acc 0.9976
+epoch 50, loss -0.6954, valid acc 0.9974
+epoch 55, loss -0.6765, valid acc 0.9983
+epoch 60, loss -0.7066, valid acc 0.9987
+epoch 65, loss -0.6952, valid acc 0.9989
+epoch 70, loss -0.6923, valid acc 0.9993
+epoch 75, loss -0.6983, valid acc 0.9996
+epoch 80, loss -0.6991, valid acc 0.9991
+epoch 85, loss -0.6909, valid acc 0.9998
+epoch 90, loss -0.6974, valid acc 0.9996
+epoch 95, loss -0.6621, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp37[0m 
+
+epoch 0, loss 2.8777, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3490, valid acc 0.9930
+epoch 5, loss -0.6488, valid acc 0.9456
+epoch 10, loss -0.6774, valid acc 0.9665
+epoch 15, loss -0.6818, valid acc 0.9780
+epoch 20, loss -0.6522, valid acc 0.9882
+epoch 25, loss -0.6751, valid acc 0.9928
+epoch 30, loss -0.6945, valid acc 0.9956
+epoch 35, loss -0.6996, valid acc 0.9976
+epoch 40, loss -0.7124, valid acc 0.9989
+epoch 45, loss -0.6797, valid acc 0.9996
+epoch 50, loss -0.6912, valid acc 0.9993
+epoch 55, loss -0.6718, valid acc 0.9998
+epoch 60, loss -0.7053, valid acc 0.9998
+epoch 65, loss -0.7045, valid acc 0.9998
+epoch 70, loss -0.6705, valid acc 0.9998
+epoch 75, loss -0.7030, valid acc 0.9998
+epoch 80, loss -0.6703, valid acc 0.9998
+epoch 85, loss -0.7018, valid acc 0.9998
+epoch 90, loss -0.7004, valid acc 0.9998
+epoch 95, loss -0.7001, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp38[0m 
+
+epoch 0, loss 2.8639, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3506, valid acc 0.9930
+epoch 5, loss -0.6257, valid acc 0.9356
+epoch 10, loss -0.6800, valid acc 0.9415
+epoch 15, loss -0.6700, valid acc 0.9504
+epoch 20, loss -0.6673, valid acc 0.9639
+epoch 25, loss -0.6910, valid acc 0.9678
+epoch 30, loss -0.6897, valid acc 0.9774
+epoch 35, loss -0.6911, valid acc 0.9843
+epoch 40, loss -0.6965, valid acc 0.9906
+epoch 45, loss -0.7094, valid acc 0.9928
+epoch 50, loss -0.6783, valid acc 0.9943
+epoch 55, loss -0.6991, valid acc 0.9972
+epoch 60, loss -0.6771, valid acc 0.9978
+epoch 65, loss -0.6847, valid acc 0.9978
+epoch 70, loss -0.7076, valid acc 0.9985
+epoch 75, loss -0.7010, valid acc 0.9989
+epoch 80, loss -0.6961, valid acc 0.9989
+epoch 85, loss -0.7022, valid acc 0.9985
+epoch 90, loss -0.7076, valid acc 0.9991
+epoch 95, loss -0.7024, valid acc 0.9991
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp39[0m 
+
+epoch 0, loss 2.8779, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3479, valid acc 0.9911
+epoch 5, loss -0.6233, valid acc 0.9602
+epoch 10, loss -0.6679, valid acc 0.9778
+epoch 15, loss -0.6846, valid acc 0.9906
+epoch 20, loss -0.6965, valid acc 0.9983
+epoch 25, loss -0.6964, valid acc 0.9987
+epoch 30, loss -0.6887, valid acc 0.9998
+epoch 35, loss -0.6903, valid acc 0.9998
+epoch 40, loss -0.6934, valid acc 0.9998
+epoch 45, loss -0.6908, valid acc 0.9998
+epoch 50, loss -0.6813, valid acc 0.9998
+epoch 55, loss -0.6825, valid acc 0.9998
+epoch 60, loss -0.7064, valid acc 0.9998
+epoch 65, loss -0.6846, valid acc 0.9998
+epoch 70, loss -0.7133, valid acc 0.9998
+epoch 75, loss -0.6796, valid acc 0.9998
+epoch 80, loss -0.6935, valid acc 0.9998
+epoch 85, loss -0.7177, valid acc 0.9998
+epoch 90, loss -0.7224, valid acc 0.9998
+epoch 95, loss -0.7015, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp40[0m 
+
+epoch 0, loss 2.8462, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3441, valid acc 0.9919
+epoch 5, loss -0.6467, valid acc 0.9482
+epoch 10, loss -0.6634, valid acc 0.9654
+epoch 15, loss -0.6767, valid acc 0.9763
+epoch 20, loss -0.7043, valid acc 0.9845
+epoch 25, loss -0.6802, valid acc 0.9909
+epoch 30, loss -0.6981, valid acc 0.9946
+epoch 35, loss -0.6844, valid acc 0.9967
+epoch 40, loss -0.7050, valid acc 0.9980
+epoch 45, loss -0.6993, valid acc 0.9976
+epoch 50, loss -0.6861, valid acc 0.9985
+epoch 55, loss -0.7116, valid acc 0.9993
+epoch 60, loss -0.6851, valid acc 0.9989
+epoch 65, loss -0.7034, valid acc 0.9993
+epoch 70, loss -0.6692, valid acc 0.9998
+epoch 75, loss -0.7036, valid acc 0.9998
+epoch 80, loss -0.7100, valid acc 0.9998
+epoch 85, loss -0.6831, valid acc 0.9998
+epoch 90, loss -0.7070, valid acc 0.9998
+epoch 95, loss -0.6986, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp41[0m 
+
+epoch 0, loss 2.8687, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3509, valid acc 0.9933
+epoch 5, loss -0.6572, valid acc 0.9299
+epoch 10, loss -0.6826, valid acc 0.9476
+epoch 15, loss -0.6806, valid acc 0.9593
+epoch 20, loss -0.6983, valid acc 0.9739
+epoch 25, loss -0.6834, valid acc 0.9811
+epoch 30, loss -0.7014, valid acc 0.9869
+epoch 35, loss -0.6900, valid acc 0.9909
+epoch 40, loss -0.7062, valid acc 0.9913
+epoch 45, loss -0.6933, valid acc 0.9941
+epoch 50, loss -0.7061, valid acc 0.9956
+epoch 55, loss -0.6786, valid acc 0.9967
+epoch 60, loss -0.7003, valid acc 0.9978
+epoch 65, loss -0.6715, valid acc 0.9980
+epoch 70, loss -0.6944, valid acc 0.9985
+epoch 75, loss -0.6916, valid acc 0.9983
+epoch 80, loss -0.6968, valid acc 0.9993
+epoch 85, loss -0.7059, valid acc 0.9991
+epoch 90, loss -0.6785, valid acc 0.9991
+epoch 95, loss -0.7041, valid acc 0.9993
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp42[0m 
+
+epoch 0, loss 2.8632, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3527, valid acc 0.9924
+epoch 5, loss -0.6333, valid acc 0.9293
+epoch 10, loss -0.6765, valid acc 0.9369
+epoch 15, loss -0.6897, valid acc 0.9476
+epoch 20, loss -0.6763, valid acc 0.9630
+epoch 25, loss -0.6982, valid acc 0.9704
+epoch 30, loss -0.7031, valid acc 0.9761
+epoch 35, loss -0.6957, valid acc 0.9845
+epoch 40, loss -0.6900, valid acc 0.9891
+epoch 45, loss -0.7099, valid acc 0.9911
+epoch 50, loss -0.7134, valid acc 0.9939
+epoch 55, loss -0.7030, valid acc 0.9946
+epoch 60, loss -0.7064, valid acc 0.9963
+epoch 65, loss -0.6900, valid acc 0.9970
+epoch 70, loss -0.6935, valid acc 0.9970
+epoch 75, loss -0.6838, valid acc 0.9976
+epoch 80, loss -0.7006, valid acc 0.9978
+epoch 85, loss -0.7115, valid acc 0.9983
+epoch 90, loss -0.7144, valid acc 0.9976
+epoch 95, loss -0.6775, valid acc 0.9985
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp43[0m 
+
+epoch 0, loss 2.8668, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3253, valid acc 0.9919
+epoch 5, loss -0.6381, valid acc 0.9754
+epoch 10, loss -0.6634, valid acc 0.9904
+epoch 15, loss -0.6738, valid acc 0.9972
+epoch 20, loss -0.6797, valid acc 0.9989
+epoch 25, loss -0.6637, valid acc 0.9998
+epoch 30, loss -0.7143, valid acc 0.9998
+epoch 35, loss -0.6940, valid acc 0.9998
+epoch 40, loss -0.6904, valid acc 0.9998
+epoch 45, loss -0.7018, valid acc 0.9998
+epoch 50, loss -0.7135, valid acc 0.9998
+epoch 55, loss -0.6948, valid acc 0.9998
+epoch 60, loss -0.6782, valid acc 0.9998
+epoch 65, loss -0.7038, valid acc 0.9998
+epoch 70, loss -0.6908, valid acc 0.9998
+epoch 75, loss -0.7032, valid acc 0.9998
+epoch 80, loss -0.6895, valid acc 0.9998
+epoch 85, loss -0.6981, valid acc 0.9998
+epoch 90, loss -0.6991, valid acc 0.9998
+epoch 95, loss -0.7067, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp44[0m 
+
+epoch 0, loss 2.8533, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3610, valid acc 0.9943
+epoch 5, loss -0.6407, valid acc 0.9439
+epoch 10, loss -0.6821, valid acc 0.9589
+epoch 15, loss -0.6802, valid acc 0.9748
+epoch 20, loss -0.6691, valid acc 0.9832
+epoch 25, loss -0.6809, valid acc 0.9880
+epoch 30, loss -0.6768, valid acc 0.9909
+epoch 35, loss -0.6850, valid acc 0.9939
+epoch 40, loss -0.7056, valid acc 0.9970
+epoch 45, loss -0.6691, valid acc 0.9980
+epoch 50, loss -0.7047, valid acc 0.9993
+epoch 55, loss -0.7094, valid acc 0.9996
+epoch 60, loss -0.7187, valid acc 0.9996
+epoch 65, loss -0.7271, valid acc 0.9996
+epoch 70, loss -0.6943, valid acc 0.9993
+epoch 75, loss -0.6976, valid acc 0.9996
+epoch 80, loss -0.6954, valid acc 0.9998
+epoch 85, loss -0.7210, valid acc 0.9998
+epoch 90, loss -0.7053, valid acc 0.9998
+epoch 95, loss -0.7165, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp45[0m 
+
+epoch 0, loss 2.8648, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3461, valid acc 0.9937
+epoch 5, loss -0.6163, valid acc 0.9567
+epoch 10, loss -0.6792, valid acc 0.9789
+epoch 15, loss -0.6730, valid acc 0.9887
+epoch 20, loss -0.6796, valid acc 0.9943
+epoch 25, loss -0.6667, valid acc 0.9970
+epoch 30, loss -0.6768, valid acc 0.9983
+epoch 35, loss -0.7280, valid acc 0.9996
+epoch 40, loss -0.6721, valid acc 0.9996
+epoch 45, loss -0.6903, valid acc 0.9998
+epoch 50, loss -0.6959, valid acc 0.9996
+epoch 55, loss -0.6945, valid acc 0.9998
+epoch 60, loss -0.7002, valid acc 0.9998
+epoch 65, loss -0.7077, valid acc 0.9998
+epoch 70, loss -0.6826, valid acc 0.9998
+epoch 75, loss -0.7165, valid acc 0.9998
+epoch 80, loss -0.6953, valid acc 0.9998
+epoch 85, loss -0.6593, valid acc 0.9998
+epoch 90, loss -0.6868, valid acc 0.9998
+epoch 95, loss -0.6998, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp46[0m 
+
+epoch 0, loss 2.7741, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.2729, valid acc 0.9935
+epoch 5, loss -0.6252, valid acc 0.9480
+epoch 10, loss -0.6555, valid acc 0.9695
+epoch 15, loss -0.7049, valid acc 0.9885
+epoch 20, loss -0.6927, valid acc 0.9928
+epoch 25, loss -0.6937, valid acc 0.9970
+epoch 30, loss -0.6627, valid acc 0.9985
+epoch 35, loss -0.7178, valid acc 0.9991
+epoch 40, loss -0.7091, valid acc 0.9998
+epoch 45, loss -0.7253, valid acc 0.9996
+epoch 50, loss -0.6769, valid acc 0.9998
+epoch 55, loss -0.7155, valid acc 0.9998
+epoch 60, loss -0.7018, valid acc 0.9998
+epoch 65, loss -0.6821, valid acc 0.9998
+epoch 70, loss -0.6911, valid acc 0.9998
+epoch 75, loss -0.6764, valid acc 0.9998
+epoch 80, loss -0.6819, valid acc 0.9998
+epoch 85, loss -0.6935, valid acc 0.9998
+epoch 90, loss -0.7040, valid acc 0.9998
+epoch 95, loss -0.6815, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp47[0m 
+
+epoch 0, loss 2.8820, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3490, valid acc 0.9917
+epoch 5, loss -0.6391, valid acc 0.9358
+epoch 10, loss -0.6468, valid acc 0.9571
+epoch 15, loss -0.6736, valid acc 0.9689
+epoch 20, loss -0.6808, valid acc 0.9789
+epoch 25, loss -0.6896, valid acc 0.9839
+epoch 30, loss -0.6997, valid acc 0.9896
+epoch 35, loss -0.6931, valid acc 0.9917
+epoch 40, loss -0.6981, valid acc 0.9935
+epoch 45, loss -0.6938, valid acc 0.9961
+epoch 50, loss -0.6917, valid acc 0.9978
+epoch 55, loss -0.6808, valid acc 0.9980
+epoch 60, loss -0.7147, valid acc 0.9983
+epoch 65, loss -0.7150, valid acc 0.9989
+epoch 70, loss -0.6680, valid acc 0.9987
+epoch 75, loss -0.6881, valid acc 0.9991
+epoch 80, loss -0.7275, valid acc 0.9991
+epoch 85, loss -0.6965, valid acc 0.9996
+epoch 90, loss -0.6763, valid acc 0.9996
+epoch 95, loss -0.6713, valid acc 0.9998
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp48[0m 
+
+epoch 0, loss 2.8539, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3504, valid acc 0.9917
+epoch 5, loss -0.6429, valid acc 0.9332
+epoch 10, loss -0.6794, valid acc 0.9408
+epoch 15, loss -0.6879, valid acc 0.9526
+epoch 20, loss -0.7027, valid acc 0.9647
+epoch 25, loss -0.6741, valid acc 0.9728
+epoch 30, loss -0.7018, valid acc 0.9808
+epoch 35, loss -0.6872, valid acc 0.9880
+epoch 40, loss -0.6866, valid acc 0.9880
+epoch 45, loss -0.6703, valid acc 0.9915
+epoch 50, loss -0.7011, valid acc 0.9924
+epoch 55, loss -0.6950, valid acc 0.9959
+epoch 60, loss -0.6959, valid acc 0.9965
+epoch 65, loss -0.7155, valid acc 0.9974
+epoch 70, loss -0.7223, valid acc 0.9980
+epoch 75, loss -0.7256, valid acc 0.9980
+epoch 80, loss -0.7074, valid acc 0.9987
+epoch 85, loss -0.6791, valid acc 0.9987
+epoch 90, loss -0.6930, valid acc 0.9983
+epoch 95, loss -0.6923, valid acc 0.9989
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp49[0m 
+
+epoch 0, loss 2.8643, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3511, valid acc 0.9933
+epoch 5, loss -0.6557, valid acc 0.9434
+epoch 10, loss -0.6632, valid acc 0.9591
+epoch 15, loss -0.6916, valid acc 0.9691
+epoch 20, loss -0.6810, valid acc 0.9787
+epoch 25, loss -0.6902, valid acc 0.9843
+epoch 30, loss -0.6939, valid acc 0.9904
+epoch 35, loss -0.7091, valid acc 0.9939
+epoch 40, loss -0.7003, valid acc 0.9943
+epoch 45, loss -0.6960, valid acc 0.9956
+epoch 50, loss -0.6997, valid acc 0.9963
+epoch 55, loss -0.6822, valid acc 0.9967
+epoch 60, loss -0.6690, valid acc 0.9978
+epoch 65, loss -0.7022, valid acc 0.9980
+epoch 70, loss -0.6865, valid acc 0.9983
+epoch 75, loss -0.6826, valid acc 0.9987
+epoch 80, loss -0.6898, valid acc 0.9991
+epoch 85, loss -0.6886, valid acc 0.9993
+epoch 90, loss -0.7057, valid acc 0.9996
+epoch 95, loss -0.7075, valid acc 0.9996
+[031mLR score: 0.8586,0.8586[0m 
+
+[031mexp50[0m 
+
+epoch 0, loss 2.8617, valid acc 0.8583
+1st training LR score:0.8585726718885988
+start training...
+epoch 0, loss 0.3402, valid acc 0.9928
+epoch 5, loss -0.6166, valid acc 0.9458
+epoch 10, loss -0.6694, valid acc 0.9580
+epoch 15, loss -0.6505, valid acc 0.9715
+epoch 20, loss -0.7016, valid acc 0.9795
+epoch 25, loss -0.6918, valid acc 0.9852
+epoch 30, loss -0.6905, valid acc 0.9915
+epoch 35, loss -0.6792, valid acc 0.9919
+epoch 40, loss -0.6986, valid acc 0.9943
+epoch 45, loss -0.7023, valid acc 0.9965
+epoch 50, loss -0.7037, valid acc 0.9965
+epoch 55, loss -0.6904, valid acc 0.9972
+epoch 60, loss -0.6921, valid acc 0.9976
+epoch 65, loss -0.6931, valid acc 0.9980
+epoch 70, loss -0.6882, valid acc 0.9980
+epoch 75, loss -0.6997, valid acc 0.9985
+epoch 80, loss -0.7022, valid acc 0.9987
+epoch 85, loss -0.6873, valid acc 0.9996
+epoch 90, loss -0.7030, valid acc 0.9991
+epoch 95, loss -0.7091, valid acc 0.9996
+[031mLR score: 0.8586,0.8586[0m 
+
+++++++++++++++++++++++++++++++++++++++++
+final: gap 0.0000(0.0000)
